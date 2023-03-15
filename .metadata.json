@@ -1,10 +1,10 @@
 [
   {
-    "package": "canvasXpress.data",
+    "package": "canvasXpress",
     "oncran": true
   },
   {
-    "package": "canvasXpress",
+    "package": "canvasXpress.data",
     "oncran": true
   }
 ]
