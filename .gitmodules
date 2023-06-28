@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "canvasXpress"]
 	path = canvasXpress
 	url = https://github.com/neuhausi/canvasxpress
-	shallow = true
-	registered = true
 [submodule "canvasXpress.data"]
 	path = canvasXpress.data
 	url = https://github.com/neuhausi/canvasxpress.data
-	shallow = true
-	registered = true
