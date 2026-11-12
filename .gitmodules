@@ -8,3 +8,7 @@
 [submodule "canvasXpress.data"]
 	path = canvasXpress.data
 	url = https://github.com/neuhausi/canvasxpress.data
+[submodule "canvasXpressDashboards"]
+	path = canvasXpressDashboards
+	url = https://github.com/neuhausi/canvasxpress-dashboards
+	subdir = r
